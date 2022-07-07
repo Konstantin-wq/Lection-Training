@@ -1,0 +1,15 @@
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+C:\Geek Brains\С#\Лекция\1 Лек\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
